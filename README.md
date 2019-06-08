@@ -1,2 +1,2 @@
 # Online-Store
-Skeleton test automation framework in c#
+Skeleton POM and Page Factory test automation framework in c#
